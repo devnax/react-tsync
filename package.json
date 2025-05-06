@@ -12,10 +12,8 @@
       "build:publish": "makepack publish"
    },
    "devDependencies": {
-      "@types/express": "latest",
       "@types/react": "^19.0.2",
       "@types/react-dom": "^19.0.2",
-      "express": "latest",
       "makepack": "^1.5.24",
       "react": "^19.0.0",
       "react-dom": "^19.0.0",
